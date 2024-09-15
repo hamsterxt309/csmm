@@ -1,6 +1,8 @@
 {
   "version": "1.2",
-  "link": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/WindowsFormsApp1.exe",
-  "path": "Info\\WindowsFormsApp1.exe",
+  "linkqltk": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/WindowsFormsApp1.exe",
+  "pathqltk": "Info\\WindowsFormsApp1.exe",
+  "linkgame": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/Newtosoft.Json.dll",
+  "pathgame": "Info\\Newtosoft.Json.dll",
   "notification" : "No",
 }
