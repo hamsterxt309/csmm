@@ -1,8 +1,0 @@
-{
-  "version": "1.4",
-  "linkqltk": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/WindowsFormsApp1.exe",
-  "pathqltk": "Info\\",
-  "linkgame": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/Newtonsoft.Json.dll",
-  "pathgame": "Info\\",
-  "notification" : "Whale52Hz",
-}
