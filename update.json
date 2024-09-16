@@ -3,10 +3,12 @@
   "notification": "Whale52Hz!",
   "update": [
     {
+      "name": "whale",
       "link": "whale.com",
       "path": "no"
     },
         {
+                "name": "whale",
       "link": "whale.com",
       "path": "no"
     },
