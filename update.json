@@ -2,10 +2,5 @@
   "version": "1.0",
   "notification": "Whale52Hz!",
   "update": [
-   {
-      "name": "Test",
-      "link": "https://raw.githubusercontent.com/hamsterxt309/csmm/blob/main/Test.exe",
-      "path": "Info1\\"
-    },
   ]
 }
