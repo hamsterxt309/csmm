@@ -1,14 +1,8 @@
 {
   "update2": [
     {
-      "version": "1.1",
-      "username": "EergnjcWLYk9zoXztaethg==",
-      "link": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/user.json",
-      "path": "Info\\"
-    },
-    {
       "version": "1.0",
-      "username": "admin2",
+      "username": "admin",
       "link": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/user.json",
       "path": "Info\\"
     },
