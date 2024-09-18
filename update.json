@@ -1,12 +1,7 @@
 {
-  "version": "1.1",
-  "notification": "Bỏ chat thua, fix lsgd",
+  "version": "1.2",
+  "notification": "fix chữ, hiện trả vàng",
   "update": [
-    {
-      "name": "QLTK",
-      "link": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/AUTO%20CSMM_Whale52Hz!.exe",
-      "path": ""
-    },
     {
       "name": "GAME",
       "link": "https://raw.githubusercontent.com/hamsterxt309/csmm/refs/heads/main/Assembly-CSharp.dll",
