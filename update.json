@@ -1,6 +1,6 @@
 {
-  "version": "1.3",
-  "notification": "Fix thông báo xử lý kết quả",
+  "version": "1.4",
+  "notification": "Update xử lý kết quả, thêm server vào đang chơi",
   "update": [
     {
       "name": "QLTK",
