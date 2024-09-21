@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
-  "notification": "Update xử lý kết quả, thêm server vào đang chơi",
+  "version": "1.5",
+  "notification": "Fix xử lý kết quả 6h, ds đen, hiện bot phụ",
   "update": [
     {
       "name": "QLTK",
