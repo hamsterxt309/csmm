@@ -1,6 +1,6 @@
 {
-  "version": "1.5",
-  "notification": "Fix xử lý kết quả 6h, ds đen, hiện bot phụ",
+  "version": "1.6",
+  "notification": "Fix xử lý kết quả 6h.",
   "update": [
     {
       "name": "QLTK",
