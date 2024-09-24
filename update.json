@@ -1,6 +1,6 @@
 {
   "version": "1.6",
-  "notification": "Fix xử lý kết quả 6h.",
+  "notification": "Fix xử lý kết quả 6h, tích tổng ngày.",
   "update": [
     {
       "name": "QLTK",
